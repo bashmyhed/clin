@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 :: Config
-set DOWNLOAD_URL=https://github.com/PaulSteve005/clin/releases/download/stable/clin-windows-x64.exe
+set DOWNLOAD_URL=https://github.com/bashmyhed/clin/releases/download/stable/clin-windows-x64.exe
 set INSTALL_DIR=C:\Program Files\clin
 set EXE_NAME=clin.exe
 set FULL_PATH=%INSTALL_DIR%\%EXE_NAME%

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Configuration ---
-REPO_OWNER="PaulSteve005"       # Replace with your GitHub username
+REPO_OWNER="bashmyhed"       # Replace with your GitHub username
 REPO_NAME="clin"           # Replace with your GitHub repository name
 BIN_RELEASE_ASSET_LINUX_X64="clin-linux-x64"     # Replace with your Linux x64 binary asset name
 BIN_RELEASE_ASSET_MACOS_X64="clin-macos-x64"     # Replace with your macOS Intel x64 binary asset name
