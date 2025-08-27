@@ -45,7 +45,7 @@ With `clin`, you can seamlessly compile and run your code without needing to rem
 ### Linux/macOS
 + Requires sudo privilages
 ```
-curl https://raw.githubusercontent.com/PaulSteve005/clin/refs/heads/main/scripts/install.sh | sudo bash
+curl https://raw.githubusercontent.com/bashmyhed/clin/refs/heads/main/scripts/install.sh | sudo bash
 ```
 
 ### Windows
@@ -57,7 +57,7 @@ Follow these steps to install `clin` using the batch script provided in the repo
 
 Click the link below to download the installer batch file:
 
-[Download `install.bat`](https://github.com/PaulSteve005/clin/blob/main/scripts/install.bat)
+[Download `install.bat`](https://github.com/bashmyhed/clin/blob/main/scripts/install.bat)
 
 > Tip: Right-click the link above and choose **"Save link as..."** to save it locally.
 

@@ -10,7 +10,7 @@ MAN_RELEASE_ASSET="clin.1"            # Replace with the name of your man page a
 BIN_TARGET_DIR="/usr/local/bin"
 MAN_TARGET_DIR="/usr/local/share/man/man1"
 VERSION="1.0.0" #  Set your initial version here
-MAN_RELEASE_URL="https://raw.githubusercontent.com/PaulSteve005/clin/refs/heads/main/man/clin.1" # URL for the man page
+MAN_RELEASE_URL="https://raw.githubusercontent.com/bashmyhed/clin/refs/heads/main/man/clin.1" # URL for the man page
 
 
 # --- Helper Functions ---
